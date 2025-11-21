@@ -1,7 +1,7 @@
 /* font.css */
 
-/* Import Google Font Roboto */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+/* Import Google Font Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
 
 /* Reset dasar */
 * {
@@ -12,7 +12,7 @@
 
 /* Font default */
 body {
-  font-family: 'Roboto', Arial, sans-serif;
+  font-family: 'Open Sans', Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6;
   color: #0f172a;
@@ -27,9 +27,9 @@ p {
 }
 
 b {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 button, input, textarea {
-  font-family: 'Roboto', Arial, sans-serif;
+  font-family: 'Open Sans', Arial, sans-serif;
 }
